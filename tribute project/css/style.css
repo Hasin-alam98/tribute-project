@@ -1,0 +1,33 @@
+
+
+ui{
+    list-style: none;
+}
+header{
+    font-weight: 700;
+    font-family: sans-serif;
+margin-left: 10px;
+}
+header:hover{
+    
+    width: 20%;
+    border-right: double 20px crimson;
+    transition: 500ms;
+    
+}
+.paratext:hover{
+font-weight: 500;
+border-right: 10px crimson solid;
+transition: 200ms;
+}
+li{
+    list-style: none;
+}
+img{
+    width: 80%;
+}
+img:hover{
+ width: 82%;
+ transition: 300ms;
+ 
+}
